@@ -162,6 +162,10 @@ a:focus {
 .nav-bar .container-fluid {
     padding: 0;
 }
+.titulo {
+    font-family: Verdana;
+    font-family: 'PT Sans';
+    }
 
 .nav-bar.nav-sticky {
     position: fixed;
